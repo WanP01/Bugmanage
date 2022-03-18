@@ -1,0 +1,3 @@
+LANGUAGE_CODE = 'zh-Hans'
+
+SMS=666
